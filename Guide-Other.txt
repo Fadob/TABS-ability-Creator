@@ -1,1 +1,12 @@
-Lmao test
+---------HotKeys---------:
+
+(Ability Creator)
+-Create new node: Tab
+
+-Delete Node: Press on Node and Press Delete
+
+-Create Connection: Press on first node, then on 
+seconed, then press Enter
+
+-Remove Connection: Hold LeftControl And Left Click
+On Connection​
